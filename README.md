@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL](https://your-solution-url.com)
-- Live Site URL: [live site URL](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://github.com/stevenHuang0604/Advice-generator)
+- Live Site URL: [live site URL](https://advice-generator-stevenhuang.netlify.app/)
 
 ## My process
 
